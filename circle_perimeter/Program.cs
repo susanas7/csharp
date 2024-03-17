@@ -14,7 +14,7 @@
 
         var resultado_perim = circ.Perimetro();
 
-        Console.WriteLine($"El perimetro es: {resultado_perim}");
+        Console.WriteLine(resultado_perim);
     }
 }
 class Circulo

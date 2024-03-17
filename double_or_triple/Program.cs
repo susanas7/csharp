@@ -12,7 +12,7 @@ class Program
 
         double resultado = (numero1 > numero2) ? numero1 * 2 : numero2 * 3;
 
-        Console.WriteLine($"El resultado es: {resultado}");
+        Console.WriteLine(resultado);
     }
 
     static double leerNumero()

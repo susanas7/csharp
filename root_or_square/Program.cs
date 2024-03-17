@@ -12,6 +12,6 @@
 
         double resultado = (numero >= 0) ? Math.Sqrt(numero) : Math.Pow(numero, 2);
 
-        Console.WriteLine($"El resultado es: {resultado}");
+        Console.WriteLine(resultado);
     }
 }
